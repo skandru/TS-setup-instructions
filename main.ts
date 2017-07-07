@@ -3,7 +3,7 @@ import {MustHaveCoffee} from "./getcoffee"
 class SweetSweetClass {
      constructor() { 
          console.log("Even sweeter");
-         $('body').css('background-color','blue');
+         $('body').css('background-color','red');
      }
  }
 
